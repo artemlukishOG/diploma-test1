@@ -1,4 +1,5 @@
 {
+  "proxy": "http://resinglaze.ru:80",
   "homepage": "http://artemlukishOG.github.io/diploma-test1",  
   "name": "diploma-pizza-copy",
   "version": "0.1.0",
